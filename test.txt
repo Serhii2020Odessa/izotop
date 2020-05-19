@@ -1,1 +1,59 @@
-123 
+123
+{"EmployeesInformation":[
+   {
+      "name": "Anie",
+	  "age":     21,
+	  "sex": "female",
+	  "job's title": "Storekeeper",
+	  "dailyrate": 15.55  
+   }, {
+      "name": "Kolya",
+	  "age":     25,
+	  "sex": "male",
+	  "job's title": "Chief mechanical engineer",
+	  "dailyrate": 25.32
+   }, {
+      "name": "Sarah",
+	  "age":     34,
+	  "sex": "female",
+      "job's title": "Accountant",
+      "dailyrate": 13.87
+   }, {
+      "name": "Andrey",
+	  "age":     28,
+	  "sex": "male",
+	  "job's title": "Collector",
+	  "dailyrate": 11.85
+   }, {
+      "nam{"EmployeesInformation":[
+   {
+      "name": "Anie",
+	  "age":     21,
+	  "sex": "female",
+	  "job's title": "Storekeeper",
+	  "dailyrate": 15.55  
+   }, {
+      "name": "Kolya",
+	  "age":     25,
+	  "sex": "male",
+	  "job's title": "Chief mechanical engineer",
+	  "dailyrate": 25.32
+   }, {
+      "name": "Sarah",
+	  "age":     34,
+	  "sex": "female",
+      "job's title": "Accountant",
+      "dailyrate": 13.87
+   }, {
+      "name": "Andrey",
+	  "age":     28,
+	  "sex": "male",
+	  "job's title": "Collector",
+	  "dailyrate": 11.85
+   }, {e": "Sergey",
+	  "age":     54,
+	  "sex": "male",
+	  "job's title": "Broker",
+	  "dailyrate": 22.43
+   }
+]}
